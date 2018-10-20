@@ -20,7 +20,7 @@ In order to run the application you can:
 
 * Clone or fork this project:
 
-$ git clone 
+$ git clone https://github.com/katiakova/frontend-nanodegree-feedreader-master.git
 
 ## Tests
 
